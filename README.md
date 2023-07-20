@@ -1,7 +1,5 @@
 # Music Player Project
-![image](https://github.com/Kaisama/Music_Player/assets/109125241/44d4ea99-e2d3-489d-803a-09301978a68e)
-
-
+![image](https://github.com/Kaisama/Music_Player/assets/109125241/9583a701-9001-478d-a3d0-4a94a253cdf4)
 Overview
 The Online Music Player project is a basic yet functional web-based application designed to provide users with a seamless music listening experience. It allows users to play, pause, skip to the next or previous track, and browse through a list of music items conveniently. Whether you want to enjoy your favorite tunes or discover new music, this music player has got you covered!
 
