@@ -9,6 +9,7 @@
 # Overview 💻📰
 The Online Music Player project is a basic yet functional web-based application designed to provide users with a seamless music listening experience. It allows users to play, pause, skip to the next or previous track, and browse through a list of music items conveniently. Whether you want to enjoy your favorite tunes or discover new music, this music player has got you covered!
 
+## My site is live at https://kaisama.github.io/Music_Player/
 
 
 # Features
